@@ -7,15 +7,23 @@ img {
   display: none;
 }
 
-#supermanatee-showing {
+.supermanatee-showing {
   display: none;
 }
 
-.clickable1, .clickable2 {
+.content-showing {
+  display: none;
+}
+
+.clickable1, .clickable2, .clickable3 {
   cursor: pointer;
   color: #0088cc;
 }
 
 .clickable:hover {
   text-decoration: underline;
+}
+
+h5 {
+  display: none;
 }
