@@ -1,0 +1,29 @@
+.green-background {
+  background-color: green;
+}
+
+.yellow-background {
+  background-color: yellow;
+}
+
+.red-background {
+  background-color: red;
+}
+
+.white-background {
+  background: white;
+}
+
+.hotpink-background {
+  background: hotpink;
+}
+
+.black-background {
+  background: black;
+}
+
+#gray-box {
+  height: 500px;
+  width: 400px;
+  border: solid red thick;
+}
