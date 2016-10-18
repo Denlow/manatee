@@ -1,12 +1,17 @@
 img {
   display: none;
+  width: 500px;
 }
 
 #manatee-showing {
   display: none;
 }
 
-.clickable {
+#supermanatee-showing {
+  display: none;
+}
+
+.clickable1, .clickable2 {
   cursor: pointer;
   color: #0088cc;
 }
